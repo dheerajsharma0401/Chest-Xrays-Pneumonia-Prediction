@@ -1,5 +1,5 @@
 
-<h1 align="center">Chest-Xray-Pneumonia-Prediction</h1>
+<h1 align="center">Chest-Xrays-Pneumonia-Prediction</h1>
 
 <div align= "center">
   <h4>Chest-Xray-Pneumonia-Prediction built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts. </h4>
@@ -8,8 +8,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
-[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Chest-Xrays-Pneumonia-Predictionsvg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/network/members)
-[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/stargazers)
+[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Chest-Xrays-Pneumonia-Predictionsvg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/network/members)
+[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/stargazers)
 [![Issues](https://img.shields.io/github/issues/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
