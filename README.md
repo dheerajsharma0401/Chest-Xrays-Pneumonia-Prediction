@@ -74,7 +74,7 @@ All the dependencies and required libraries are included in the file <code>requi
 
 2. Clone the repo
 ```
-$ git clone https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction.git
+$ git clone https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.git
 ```
 
 3. Change your directory to the cloned repo and create a Python virtual environment named 'test'
@@ -94,7 +94,7 @@ $ pip3 install -r requirements.txt
 $ python3 jupyter
 ```
 
-2. To train the model, open the [Pneumonia_Prediction](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/PNEUMONIA_DETECTION.ipynb) file in jupyter notebook and run all the cells </br>
+2. To train the model, open the [Pneumonia_Prediction](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/PNEUMONIA_DETECTION.ipynb) file in jupyter notebook and run all the cells </br>
 
 </br></br>
 ## :key: Results 
@@ -114,12 +114,12 @@ $ python3 jupyter
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: aryan.gupta18@vit.edu
+:email: dheeraj.sharma18@vit.edu
 
 
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Pneumonia_Detection](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Pneumonia_Detection](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 
 ## :heart: Owner
