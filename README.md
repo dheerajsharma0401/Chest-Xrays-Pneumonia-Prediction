@@ -7,19 +7,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/issues)
-[![Forks](https://img.shields.io/github/forks/beingaryan/Chest-Xray-Pneumonia-Predictionsvg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/network/members)
-[![Stargazers](https://img.shields.io/github/stars/beingaryan/Chest-Xray-Pneumonia-Prediction.svg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/stargazers)
-[![Issues](https://img.shields.io/github/issues/beingaryan/Chest-Xray-Pneumonia-Prediction.svg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/aryan-gupta-6a9201191/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
+[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Chest-Xrays-Pneumonia-Predictionsvg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/network/members)
+[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/stargazers)
+[![Issues](https://img.shields.io/github/issues/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"><img src="https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/Outputs/Non%20pneumonia.png" width="700" height="400"></p>
 <p align="center"><b>Non Pneumonia</b></p>
 
-## :point_down: Support me here!
-<a href="https://www.buymeacoffee.com/beingaryan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</br>
 ## :innocent: Motivation
 A Deep Learning based model used for the prediction whether a person is suffering from pneumonia or not. The project is absed upon the Standard __Convolutional Based Neural Network__ Architectural Implementation. It incorporates the use of CNN layers with Hyper-parameters tuning. The motivation behind the project is to effectively classify the reports of chest xrays to classify into pneumonia or non-pneumonia cases.
 </br></br> The model has been trained for 12 epoch. The model gave an accuracy of __98.51__ on validation sets.
@@ -70,7 +67,7 @@ The above figure shows pre-processed image with extracted features which is sent
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Start and fork the repository.
@@ -126,7 +123,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
+Made with :heart:&nbsp;  by [Dheeraj Sharma](https://github.com/dheerajsharma0401)
 
 
 ## :+1: Credits
@@ -143,7 +140,7 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
 ## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/LICENSE)
+MIT © [Dheeraj Sharma](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/LICENSE)
 
 
 
