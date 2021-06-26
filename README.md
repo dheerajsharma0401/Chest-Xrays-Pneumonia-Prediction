@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center"><img src="https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/Outputs/Non%20pneumonia.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/Non%20pneumonia.png" width="700" height="400"></p>
 <p align="center"><b>Non Pneumonia</b></p>
 
 ## :innocent: Motivation
@@ -27,7 +27,7 @@ A Deep Learning based model used for the prediction whether a person is sufferin
 <!---Unable to communicate verbally is a disability. In order to communicate there are many ways, one of the most popular methods is the use of predefined sign languages. The purpose of this project is to bridge the __research gap__ and to contribute to recognize __American sign languages(ASL)__ with maximum efficiency. This repository focuses on the recognition of ASL in real time, converting predicted characters to sentences and output is generated in terms of voice formats. The system is trained by convolutional neural networks for the classification of __26 alphabets__ and one extra alphabet for null character. The proposed work has achieved an efficiency of __99.88%__ on the test set.--->
 
 
-<p align="center"><img src="https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/Outputs/pneumonia.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/pneumonia.png" width="700" height="400"></p>
 
 <p align="center"><b>Case of Pneumonia</b></p>
 
@@ -105,10 +105,10 @@ $ python3 jupyter
 * The model has attained an accuracy of __98.51 %__ accuracy on the Validation set.
 
 #### We got the following accuracy vs. epochs curve plot
-![](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/Outputs/accuracy%20vs%20epochs.png)<br />
+![](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/accuracy%20vs%20epochs.png)<br />
 #### The above figure shows the Accracy plot of the model throughout it's training journey. 
 
-<br /><br />![](https://github.com/beingaryan/Chest-Xray-Pneumonia-Prediction/blob/main/Outputs/loss%20vs%20epochs.png)<br/>
+<br /><br />![](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/loss%20vs%20epochs.png)<br/>
 #### The above figure shows the Loss plot of the model throughout it's training journey. 
 
 
